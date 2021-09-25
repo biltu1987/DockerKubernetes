@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\dotnetcorecicd\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj": {}
+    "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\dotnetcoreApp.csproj": {
+    "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\dotnetcoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\dotnetcoreApp.csproj",
+        "projectUniqueName": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\dotnetcoreApp.csproj",
         "projectName": "dotnetcoreApp",
-        "projectPath": "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\dotnetcoreApp.csproj",
-        "packagesPath": "C:\\Users\\vinod\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\obj\\",
+        "projectPath": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\dotnetcoreApp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vinod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,21 +67,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Development\\dotnetcorecicd\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj": {
+    "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\dotnetcorecicd\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj",
+        "projectUniqueName": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj",
         "projectName": "dotnetcoreApp.Tests",
-        "projectPath": "D:\\Development\\dotnetcorecicd\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj",
-        "packagesPath": "C:\\Users\\vinod\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\dotnetcorecicd\\test\\dotnetcoreApp.Tests\\obj\\",
+        "projectPath": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\test\\dotnetcoreApp.Tests\\dotnetcoreApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\test\\dotnetcoreApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vinod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +99,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\dotnetcoreApp.csproj": {
-                "projectPath": "D:\\Development\\dotnetcorecicd\\src\\dotnetcoreApp\\dotnetcoreApp.csproj"
+              "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\dotnetcoreApp.csproj": {
+                "projectPath": "C:\\StorageDrive\\CAC\\Projects\\DotnetcoreCICD\\src\\dotnetcoreApp\\dotnetcoreApp.csproj"
               }
             }
           }
@@ -143,7 +151,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
