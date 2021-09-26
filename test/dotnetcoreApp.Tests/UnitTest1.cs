@@ -12,7 +12,7 @@ namespace dotnetcoreApp.Tests
         public void Test1()
         {
             var testRes=wfObj.Get(101);
-            Assert.Equal("Biltu Khawas",testRes);
+            Assert.Equal("Vinod Singh",testRes);
 
             //A3=> Assign, Assert, Act
         }
